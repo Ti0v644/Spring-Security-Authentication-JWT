@@ -22,7 +22,7 @@ import java.util.function.Function;
 //JWT SERVICES
 @Service
 public class JwtService {
-    private static final String SECRET_KYE = "5uX55a754a7454a754a754a754a754a754a754a754a754a754a754a754a754a754a754a754a754a754a754a75";
+    private static final String SECRET_KYE = "";
 
     public String extractUsername(String token) {
 
